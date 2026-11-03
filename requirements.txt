@@ -1,3 +1,2 @@
 streamlit
-MetaTrader5
 google-generativeai
